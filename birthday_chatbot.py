@@ -31,7 +31,7 @@ st.markdown("""
 
 st.title("🎂 Birthday Wish  💖")
 
-name = "Shruti Bhute"
+name = "AthARSuMAYah A💖S"
 
 # 🎈 Balloons
 st.balloons()
